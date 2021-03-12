@@ -1,0 +1,29 @@
+{
+  "name": "hxb-react-native-secharts",
+  "version": "1.7.0",
+  "description": "reactnative的echarts组件",
+  "main": "main/dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuxiangqi/hxb-react-native-secharts"
+  },
+  "keywords": [
+    "react-native-secharts",
+    "react-native-echarts",
+    "react-native-echart",
+    "echarts",
+    "echarts4"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "author": "haise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuxiangqi/hxb-react-native-secharts/issues"
+  },
+  "homepage": "https://github.com/wuxiangqi/hxb-react-native-secharts#readme"
+}
